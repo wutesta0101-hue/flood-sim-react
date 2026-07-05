@@ -150,7 +150,7 @@ For model setup, the dam crest, lake boundary, breach section, and downstream va
 
 The figure below shows the QGIS-delineated simulation domain overlaid on a topographic base map, spanning from the upstream reference point near Fulpingdanda to the downstream boundary near Barabise, with the Jure dam/lake area marked in the middle segment.
 
-![Simulation domain map](assets/ppt/simulation-range-map.png)
+![Simulation domain map](/assets/ppt/simulation-range-map.png)
 
 Reference coordinates marked on the map (WGS 84, decimal degrees):
 
