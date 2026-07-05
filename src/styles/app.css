@@ -1,0 +1,17 @@
+/* ── 全域基礎樣式 ──
+   註:骨架階段元件多用內聯樣式;正式 UI 元件化後再將樣式移入此檔。 */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html, body, #root {
+  height: 100%;
+  overflow: hidden;
+  background: #0a0e14;
+  font-family: 'Courier New', monospace;
+}
+
+/* 捲軸(沿用既有設計語彙)*/
+::-webkit-scrollbar { width: 3px; }
+::-webkit-scrollbar-thumb { background: #1a2a3a; }
+
+button { font-family: inherit; }
+button:hover { border-color: #00b4d8 !important; color: #00b4d8 !important; }
