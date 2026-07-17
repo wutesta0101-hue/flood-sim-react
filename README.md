@@ -107,6 +107,4 @@ flood-sim-react/
 - [`docs/VALIDATION_JURE_README.md`](docs/VALIDATION_JURE_README.md)（英文版）
 - [`docs/VALIDATION_JURE_README_zh.md`](docs/VALIDATION_JURE_README_zh.md)（中文版）
 
-## 授權
 
-（依專案需求填入授權條款，例如 MIT License）
